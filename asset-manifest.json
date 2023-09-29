@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MasterSplinter007/markdown-previewer.git/static/css/main.073c9b0a.css",
+    "main.js": "/MasterSplinter007/markdown-previewer.git/static/js/main.3b1c36e5.js",
+    "static/js/787.e9480b1f.chunk.js": "/MasterSplinter007/markdown-previewer.git/static/js/787.e9480b1f.chunk.js",
+    "index.html": "/MasterSplinter007/markdown-previewer.git/index.html",
+    "main.073c9b0a.css.map": "/MasterSplinter007/markdown-previewer.git/static/css/main.073c9b0a.css.map",
+    "main.3b1c36e5.js.map": "/MasterSplinter007/markdown-previewer.git/static/js/main.3b1c36e5.js.map",
+    "787.e9480b1f.chunk.js.map": "/MasterSplinter007/markdown-previewer.git/static/js/787.e9480b1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3b1c36e5.js"
+  ]
+}
